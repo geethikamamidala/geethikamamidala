@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @geethika mamidala
+- 👀 I’m interested in web development, AI
+- 🌱 I’m currently learning Python, Java
+- 💞️ I’m looking to collaborate on open-source projects, machine learning projects
+- 📫 How to reach me email: geethikanavya19@gmail.com
+- 😄 Pronouns:she/her
+- ⚡ Fun fact: I can solve a Rubik's cube in under a minute!
